@@ -1,0 +1,18 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.Filler{background-color: aquamarine;}
+.Games{background-color: chartreuse;}
+.item{background-color: coral;}
+.Links{display:flex;
+
+    flex-wrap:wrap;
+justify-content:space-between}
+.footer{display:flex;
+    justify-content:flex-end ;
+    
+}
